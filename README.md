@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ganesha-2005-MAX/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## String
+|  |
+| ------- |
+| [4102-count-valid-substrings-i](https://github.com/Ganesha-2005-MAX/LeetCode/tree/master/4102-count-valid-substrings-i) |
+## Enumeration
+|  |
+| ------- |
+| [4102-count-valid-substrings-i](https://github.com/Ganesha-2005-MAX/LeetCode/tree/master/4102-count-valid-substrings-i) |
 <!---LeetCode Topics End-->
