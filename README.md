@@ -54,6 +54,7 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Ganesha-2005-MAX/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ganesha-2005-MAX/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1615-maximal-network-rank](https://github.com/Ganesha-2005-MAX/LeetCode/tree/master/1615-maximal-network-rank) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
